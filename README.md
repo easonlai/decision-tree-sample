@@ -25,6 +25,6 @@ sudo apt install python-pydot-ng -y
 sudo apt install graphviz -y
 ```
 
-
+![alt text](https://github.com/easonlai/decision-tree-sample/blob/main/git-images/git-image-1.png)
 
 
