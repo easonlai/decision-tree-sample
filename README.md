@@ -1,4 +1,4 @@
-# Azure Databricks notebook sample to convert Decision Tree DOT model file to PNG via Graphviz, and then display PNG file.
+# Azure Databricks notebook sample to convert Decision Tree DOT model file to PNG via Graphviz, and then display PNG image file.
 
 * decision-tree-sample.ipynb <-- Notebook sample from Mac.
 * decision-tree-sample-databricks.ipynb <-- Notebook sample from Azure Databricks.
