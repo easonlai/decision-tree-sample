@@ -34,4 +34,6 @@ sudo apt install graphviz -y
 
 ![alt text](https://github.com/easonlai/decision-tree-sample/blob/main/git-images/git-image-1.png)
 
+![alt text](https://github.com/easonlai/decision-tree-sample/blob/main/git-images/git-image-2.png)
+
 
