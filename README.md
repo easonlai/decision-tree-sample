@@ -3,7 +3,7 @@
 Update version 1.1
 
 Two approach to visualize Decision Tree in Notebook & Azure Databricks Notebook.
-* Using Scikit model dot export and covert dot to png approach
+* Using Scikit model dot export and covert dot to png approach with Graphviz
 * Using Matplotlib to visualize decision tree and export to png approach
 
 Contents
